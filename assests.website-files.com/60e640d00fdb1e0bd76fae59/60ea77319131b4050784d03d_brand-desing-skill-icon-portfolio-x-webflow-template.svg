@@ -1,0 +1,36 @@
+<svg width="106" height="120" viewBox="0 0 106 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect x="103.501" y="83.0287" width="34.4979" height="101.684" rx="9.07888" transform="rotate(90 103.501 83.0287)" fill="white" stroke="#0D0D0D" stroke-width="3.63155"/>
+<circle cx="13.6304" cy="100.278" r="4.5141" transform="rotate(90 13.6304 100.278)" fill="#0D0D0D"/>
+<rect opacity="0.4" x="91.5918" y="84.8447" width="30.8961" height="15.3282" transform="rotate(90 91.5918 84.8447)" fill="#4A3AFF"/>
+<rect opacity="0.3" x="74.8301" y="84.8164" width="30.8966" height="15.3282" transform="rotate(90 74.8301 84.8164)" fill="#4A3AFF"/>
+<rect opacity="0.2" x="58.5059" y="84.8164" width="30.8966" height="15.3282" transform="rotate(90 58.5059 84.8164)" fill="#4A3AFF"/>
+<line x1="92.2324" y1="83.0288" x2="92.2324" y2="116.916" stroke="#0D0D0D" stroke-width="3"/>
+<line x1="76" y1="83.0288" x2="76" y2="116.916" stroke="#0D0D0D" stroke-width="3"/>
+<line x1="59.6758" y1="83.0288" x2="59.6758" y2="116.916" stroke="#0D0D0D" stroke-width="3"/>
+<line x1="43.2949" y1="83.0288" x2="43.2949" y2="116.916" stroke="#0D0D0D" stroke-width="3"/>
+<rect x="75.5875" y="21.2529" width="34.4979" height="101.684" rx="9.07888" transform="rotate(45.1389 75.5875 21.2529)" fill="white" stroke="#0D0D0D" stroke-width="3.63155"/>
+<circle cx="24.0509" cy="96.8746" r="4.5141" transform="rotate(45.1389 24.0509 96.8746)" fill="#0D0D0D"/>
+<rect opacity="0.7" x="68.4258" y="30.9395" width="30.8961" height="15.3282" transform="rotate(45.1389 68.4258 30.9395)" fill="#4A3AFF"/>
+<rect opacity="0.6" x="56.5234" y="42.7432" width="30.8966" height="15.3282" transform="rotate(45.1389 56.5234 42.7432)" fill="#4A3AFF"/>
+<rect opacity="0.5" x="44.9551" y="54.2573" width="30.8966" height="15.3282" transform="rotate(45.1389 44.9551 54.2573)" fill="#4A3AFF"/>
+<line x1="67.6023" y1="29.1997" x2="91.5061" y2="53.2197" stroke="#0D0D0D" stroke-width="3"/>
+<line x1="56.0945" y1="40.6504" x2="79.9983" y2="64.6704" stroke="#0D0D0D" stroke-width="3"/>
+<line x1="44.5261" y1="52.1636" x2="68.43" y2="76.1836" stroke="#0D0D0D" stroke-width="3"/>
+<line x1="32.9109" y1="63.7207" x2="56.8147" y2="87.7407" stroke="#0D0D0D" stroke-width="3"/>
+<rect x="1.81578" y="15.8158" width="34.4979" height="101.684" rx="9.07888" fill="white" stroke="#0D0D0D" stroke-width="3.63155"/>
+<circle cx="19.0649" cy="105.687" r="4.5141" fill="#0D0D0D"/>
+<rect x="3.63281" y="27.7236" width="30.8961" height="15.3282" fill="#4A3AFF"/>
+<rect opacity="0.9" x="3.60352" y="44.4858" width="30.8966" height="15.3282" fill="#4A3AFF"/>
+<rect opacity="0.8" x="3.60352" y="60.8096" width="30.8966" height="15.3282" fill="#4A3AFF"/>
+<line x1="1.81641" y1="27.082" x2="35.7038" y2="27.082" stroke="#0D0D0D" stroke-width="3"/>
+<line x1="1.81641" y1="43.314" x2="35.7038" y2="43.314" stroke="#0D0D0D" stroke-width="3"/>
+<line x1="1.81641" y1="59.6377" x2="35.7038" y2="59.6377" stroke="#0D0D0D" stroke-width="3"/>
+<line x1="1.81641" y1="76.021" x2="35.7038" y2="76.021" stroke="#0D0D0D" stroke-width="3"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="106" height="120" fill="white"/>
+</clipPath>
+</defs>
+</svg>

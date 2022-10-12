@@ -1,0 +1,13 @@
+<svg width="127" height="120" viewBox="0 0 127 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.5" y="14.5" width="93" height="104" rx="8.5" fill="white" stroke="#0D0D0D" stroke-width="3"/>
+<rect x="9.13281" y="68.9712" width="35.92" height="37.6822" rx="5" fill="#0D0D0D"/>
+<rect x="51.0664" y="68.9712" width="35.92" height="37.6822" rx="5" fill="#0D0D0D"/>
+<rect x="9.13281" y="33.7554" width="77.8546" height="30.2162" rx="4" fill="#6EE86C"/>
+<circle cx="12.533" cy="24.679" r="3.40017" fill="#0D0D0D"/>
+<circle cx="23.5838" cy="24.679" r="3.40017" fill="#0D0D0D"/>
+<circle cx="34.6345" cy="24.679" r="3.40017" fill="#0D0D0D"/>
+<rect x="69.0273" y="24.6792" width="57.8742" height="26.5363" rx="5" fill="#0D0D0D"/>
+<line x1="95.4395" y1="34.9473" x2="118.83" y2="34.9473" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="95.4395" y1="40.9473" x2="112.278" y2="40.9473" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<circle cx="83.0977" cy="37.9473" r="7" fill="white"/>
+</svg>
